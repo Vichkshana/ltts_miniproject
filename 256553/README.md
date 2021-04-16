@@ -28,7 +28,8 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 
 ## Challenges Faced and How Was It Overcome
 
-1. Reading expiry date and purchasing new stock accordingly - Future implementation
+1. Reading expiry date and purchasing new stock accordingly (will try to include this feature)
+2. Storing medicine details in a file and retreiving from it (will work on it in the future)
 
 
 ## Learning Resources
