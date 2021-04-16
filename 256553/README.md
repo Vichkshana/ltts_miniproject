@@ -8,6 +8,8 @@
 
 [![C/C++ CI](https://github.com/Vichkshana/ltts_miniproject/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Vichkshana/ltts_miniproject/actions/workflows/c-cpp.yml)
 
+[![Valgrind_Check](https://github.com/Vichkshana/ltts_miniproject/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Vichkshana/ltts_miniproject/actions/workflows/valgrind.yml)
+
 
 
 
