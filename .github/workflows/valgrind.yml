@@ -20,4 +20,4 @@ jobs:
     - name: make test
       run: |
         make run -C 256553/3_Implementation/
-        valgrind ./256553/3_Implementation/Build/pharmacy.out
+        valgrind ./256553/3_Implementation/build/pharmacy.out
