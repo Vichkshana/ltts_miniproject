@@ -10,6 +10,8 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 
 [![CI](https://github.com/Vichkshana/ltts_miniproject/actions/workflows/main.yml/badge.svg)](https://github.com/Vichkshana/ltts_miniproject/actions/workflows/main.yml)
 
+[![C/C++ CI](https://github.com/Vichkshana/ltts_miniproject/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Vichkshana/ltts_miniproject/actions/workflows/c-cpp.yml)
+
 
 
 
