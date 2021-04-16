@@ -1,3 +1,6 @@
+[![CI](https://github.com/Vichkshana/ltts_miniproject/actions/workflows/main.yml/badge.svg)](https://github.com/Vichkshana/ltts_miniproject/actions/workflows/main.yml)
+
+
 # Requirements
 ## Introduction
  
