@@ -1,5 +1,5 @@
-#include "C:\Users\Vichkshana\Downloads\ltts_miniproject (2)\ltts_miniproject\3_Implementation\unity\unity.h"
-#include "C:\Users\Vichkshana\Downloads\ltts_miniproject (2)\ltts_miniproject\3_Implementation\inc\pharmacy.h"
+#include "unity.h"
+#include "pharmacy.h"
 
 /* Modify these two lines according to the project */
 
