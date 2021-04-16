@@ -1,7 +1,7 @@
 PROJ_NAME = pharmacy
 TEST_PROJ_NAME = Test_$(PROJ_NAME)
 
-BUILD_DIR = Build
+BUILD_DIR = build
 
 SRC = src/pharmacy.c
 
