@@ -10,7 +10,7 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 
 [![CI](https://github.com/Vichkshana/ltts_miniproject/actions/workflows/main.yml/badge.svg)](https://github.com/Vichkshana/ltts_miniproject/actions/workflows/main.yml)
 
-[![Valgrind](https://github.com/Vichkshana/ltts_miniproject/actions/workflows/main.yml/badge.svg)](https://github.com/Vichkshana/ltts_miniproject/actions/workflows/main.yml)
+
 
 
 ## Folder Structure
