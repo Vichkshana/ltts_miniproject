@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
-#include"C:\Users\Vichkshana\Downloads\ltts_miniproject (2)\ltts_miniproject\3_Implementation\inc\pharmacy.h"
+#include"pharmacy.h"
 
 void bill()
 {
