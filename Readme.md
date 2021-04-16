@@ -1,3 +1,6 @@
+
+
+
 # Requirements
 ## Introduction
  
@@ -19,8 +22,7 @@ Effective pharmaceutical services promote rational and cost-effective use of med
 
 
 ## Cost and Features
-![Description](Link to Pic)
--- Content 
+ 
 Time:
 Scope:
 Cost:
