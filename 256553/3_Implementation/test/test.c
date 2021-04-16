@@ -3,7 +3,7 @@
 
 /* Modify these two lines according to the project */
 
-#define PROJECT_NAME    "pharmacy"
+#define PROJECT_NAME    "Test_pharmacy"
 
 /* Prototypes for all the test functions */
 //void test_bill(void);
