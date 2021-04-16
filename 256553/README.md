@@ -8,6 +8,8 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 
 [![CI-Coverage](https://github.com/Vichkshana/ltts_miniproject/actions/workflows/code%20coverage.yml/badge.svg)](https://github.com/Vichkshana/ltts_miniproject/actions/workflows/code%20coverage.yml)
 
+[![CI](https://github.com/Vichkshana/ltts_miniproject/actions/workflows/main.yml/badge.svg)](https://github.com/Vichkshana/ltts_miniproject/actions/workflows/main.yml)
+
 
 ## Folder Structure
 Folder             | Description
