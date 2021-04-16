@@ -12,6 +12,8 @@
 
 [![Unit testing](https://github.com/Vichkshana/ltts_miniproject/actions/workflows/unit%20test.yml/badge.svg)](https://github.com/Vichkshana/ltts_miniproject/actions/workflows/unit%20test.yml)
 
+[![Valgrind_Check](https://github.com/Vichkshana/ltts_miniproject/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Vichkshana/ltts_miniproject/actions/workflows/valgrind.yml)
+
 
 
 
